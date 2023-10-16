@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # TOYE AFOLABI HERE
-### Aspiring Web Developer and AWS Certified Cloud Engineer
+### AWS Certified Cloud Engineer
 
-Welcome to my personal README profile! I'm an aspiring web developer with a strong passion for technology and a focus on AWS cloud engineering. 
+I'm an engineer with a strong passion for technology and a focus on AWS cloud engineering. 
 I hold the following AWS certifications:
 
 - AWS Certified Cloud Practitioner
 - AWS Certified Solutions Architect – Associate
 
-My journey in web development has introduced me to various technologies, and I'm eager to continue learning and growing in this field.
+My journey in cloud engineer has introduced me to various technologies, and I'm eager to continue learning and growing in this field.
 
 - 🔭 I’m currently working on improving my cloud knowledge.
 - 🌱 I’m currently learning AWS and Azure.
@@ -32,7 +32,7 @@ My journey in web development has introduced me to various technologies, and I'm
 - 😄 Pronouns: Him
 - ⚡ Fun fact: I'm like a blend of a sci-fi enthusiast exploring galaxies, an anime aficionado seeking adventures, and a football fanatic scoring goals in the universe of my interests." 🚀🌌🎮⚽
 
-
+<!--
 ## Projects
 
 ### Project 1: [Project Name]
@@ -56,3 +56,4 @@ My journey in web development has introduced me to various technologies, and I'm
 - GitHub Repository: [Link to the project's GitHub repository]
 
 Let's explore and grow in the world of technology together!
+-->
