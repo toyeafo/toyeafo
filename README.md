@@ -25,7 +25,7 @@ I hold the following AWS certifications:
 
 My journey in cloud engineering has introduced me to various technologies, and I'm eager to continue learning and growing in this field.
 
-- 🔭 I’m currently working on being the best cloud engineer around.
+- 🔭 I’m working on being the best cloud engineer around.
 - 🌱 I’m currently learning AWS and Azure and how this can help add value for organisations.
 - 👯 I’m looking to connect with fellow tech enthusiasts, collaborate on exciting projects or engage in discussions about the latest developments in AWS cloud engineering and web development.
 - 📫 How to reach me: LinkedIn (https://www.linkedin.com/in/toye-afolabi/) or drop me an email at afolabiolatoye@gmail.com.
