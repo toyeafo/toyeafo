@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--# TOYE AFOLABI HERE-->
-### AWS Certified Cloud Engineer
+<!--# TOYE AFOLABI HERE
+### AWS Certified Cloud Engineer-->
 
 I'm an engineer with a strong passion for technology and a focus on AWS cloud engineering. 
 I hold the following AWS certifications:
