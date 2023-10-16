@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there, I'm Toye 
 
 <!--
 **toyeafo/toyeafo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# TOYE AFOLABI HERE
+<!--# TOYE AFOLABI HERE-->
 ### AWS Certified Cloud Engineer
 
 I'm an engineer with a strong passion for technology and a focus on AWS cloud engineering. 
