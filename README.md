@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!--# TOYE AFOLABI HERE
 ### AWS Certified Cloud Engineer-->
 
-I'm an engineer with a strong passion for technology and a focus on AWS cloud engineering. 
+I'm a software engineer with a focus on AWS cloud engineering. 
 I hold the following AWS certifications:
 
 - AWS Certified Cloud Practitioner
@@ -25,11 +25,8 @@ I hold the following AWS certifications:
 
 My journey in cloud engineering has introduced me to various technologies, and I'm eager to continue learning and growing in this field.
 
-- 🔭 I’m working on being the best cloud engineer around.
-- 🌱 I’m currently learning AWS and Azure and how this can help add value for organisations.
-- 👯 I’m looking to connect with fellow tech enthusiasts, collaborate on exciting projects or engage in discussions about the latest developments in AWS cloud engineering and web development.
-- 📫 How to reach me: LinkedIn (https://www.linkedin.com/in/toye-afolabi/) or drop me an email at afolabiolatoye@gmail.com.
-- 😄 Pronouns: Him
+- 👯 I’m looking to connect with fellow tech enthusiasts, collaborate on exciting projects or engage in discussions about the latest developments in (Software and AWS cloud) engineering.
+- 📫 How to reach me: LinkedIn (https://www.linkedin.com/in/toye-afolabi/).
 - ⚡ Fun fact: I'm like a blend of a sci-fi enthusiast exploring galaxies, an anime aficionado seeking adventures, and a football fanatic scoring goals in the universe of my interests." 🚀🌌🎮⚽
 
 <!--
