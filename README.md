@@ -4,7 +4,6 @@
 <!--
 <h3 align="center">Engineer | Cybersecurity | AI x Systems</h3>
 <h3 align="center">Currently building intelligent systems that can enhance embedded systems, cyber forensics, and geospatial security.</h3>
-<!--
 🛠️ Languages: Go, Python</li>
 🧪 Interests: AI agents, secure edge devices, data visualization
 📍 Projects in progress:
