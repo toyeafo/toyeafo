@@ -1,6 +1,6 @@
 ###  
 
-<h1 align="center"> 👋 Hi there, I'm Toye <br>Engineer | Cybersecurity | AI x Systems <br>Currently building intelligent systems that can enhance embedded systems, cyber forensics, and geospatial security.</h1>
+<h1 align="center"> 👋 Hi there, I'm Toye </h1>
 <!--
 <h3 align="center">Engineer | Cybersecurity | AI x Systems</h3>
 <h3 align="center">Currently building intelligent systems that can enhance embedded systems, cyber forensics, and geospatial security.</h3>
