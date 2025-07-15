@@ -1,7 +1,16 @@
 ###  
 
 <h1 align="center"> 👋 Hi there, I'm Toye </h1>
-<!--<h3 align="center">  🔭 Ongoing Project: BUilding a Recommendation Engine with Pyspark  </h3>-->
+<h3 align="center">Engineer | Cybersecurity | AI x Systems</h3>
+<h3 align="center">Currently building intelligent systems that can enhance embedded systems, cyber forensics, and geospatial security.</h3>
+<!--
+🛠️ Languages: Go, Python</li>
+🧪 Interests: AI agents, secure edge devices, data visualization
+📍 Projects in progress:
+- Geospatial cyber incident map + AI agent
+- Anomaly detection for IoT/embedded systems
+- Lightweight forensic tools for mobile environments
+-->
 <h3 align="left"> Follow me on LinkedIn using the link below 👇 </h3>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=toyeafo&theme=gruvbox&count_private=true" width="400" />
