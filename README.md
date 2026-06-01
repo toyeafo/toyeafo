@@ -13,7 +13,8 @@
 -->
 <h3 align="left"> Follow me on LinkedIn using the link below 👇 </h3>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=toyeafo&theme=gruvbox&count_private=true" width="400" />
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=toyeafo&theme=gruvbox&count_private=true" width="400" /> -->
+[![Toye's GitHub stats](https://github-readme-stats.vercel.app/api?username=toyeafo)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/toye-afolabi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
